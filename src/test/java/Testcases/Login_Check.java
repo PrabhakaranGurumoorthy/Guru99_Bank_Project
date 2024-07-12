@@ -13,8 +13,6 @@ public class Login_Check {
             driver.findElement(By.xpath("//input[@name='uid']")).sendKeys("mngr580840");
             driver.findElement(By.xpath("//input[@name='password']")).sendKeys("mAvAsYh");
             driver.findElement(By.xpath("(//input[@name='btnLogin'])[1]")).click();
-            String tittle=driver.getTitle();
-            System.out.println(tittle);
         }
         catch (Exception e){
             e.printStackTrace();
