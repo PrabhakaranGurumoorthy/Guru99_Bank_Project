@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a24c7bee-5b1e-4954-a425-462a97fbda3b" name="Changes" comment="Project Structure added">
-      <change afterPath="$PROJECT_DIR$/src/Drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Testcases/Login_check_Updated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/Utils.java" afterDir="false" />
+    <list default="true" id="a24c7bee-5b1e-4954-a425-462a97fbda3b" name="Changes" comment="New Testcases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Testcases/Login_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testcases/Login_Check.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Login_Check.executor": "Run",
-    "Application.Login_check_Updated.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/prabh/new git folder/Guru99_Bank_Project/src/Drivers"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Login_Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login_check_Updated.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/prabh/new git folder/Guru99_Bank_Project/src/Drivers&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\prabh\new git folder\Guru99_Bank_Project\src\Drivers" />
@@ -116,12 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720808605698</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Testcases">
+      <option name="closed" value="true" />
+      <created>1720818121663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720818121664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project Structure added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Structure added" />
+    <MESSAGE value="New Testcases" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Testcases" />
   </component>
 </project>
